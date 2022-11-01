@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dune" size="0.100000 0.179146" />
+    <ImageTarget name="calculator" size="0.076000 0.156872" />
+    <ImageTarget name="Nemo" size="2.000000 1.347985" />
+    <ImageTarget name="CyberBack" size="2.000000 1.126000" />
+  </Tracking>
+</QCARConfig>
